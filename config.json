@@ -1,0 +1,11 @@
+# config.json
+{
+  "user_name": "Sir",
+  "voice": "British",
+  "wake_word": "alvin",
+  "llm_model": "deepseek-r1:1.5b",
+  "tts_provider": "elevenlabs",
+  "api_keys": {
+    "elevenlabs": "sk_da39fd7f9dae2fbd9bb71960b6bcffda1d57cd7249c636d4"
+  }
+}
